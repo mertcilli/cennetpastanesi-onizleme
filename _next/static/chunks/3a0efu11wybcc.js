@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89114,e=>{"use strict";e.S([46607,"MQ,H,prefersReducedMotion,d,refreshAfterLoad,e",0,89970,"gsap,f",0,83495,"ScrollTrigger,f",0,75324,"SplitText,f"])}]);
